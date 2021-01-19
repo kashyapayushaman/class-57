@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.profile{
+    width: 175px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+   
+}
+.parallax-inner{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+h2{
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 300; 
+}
+#name{
+    font-size: 30px;
+    font-family:'Cinzel Decorative';
+    
+}
+#welcome{
+    background: linear-gradient(#40F26A 0%,#6A40F2 100%);
+    top: 0;
+    bottom :0;
+    right:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+   color: antiquewhite;
+    
+}
+#bio{
+    font-size: 40px;
+    text-align: center;
+    padding: 50px;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 0px auto;
+}
+#p{ 
+    font-size: 17px;
+    font-family: cursive;
+    margin: 25px auto;
+    line-height: 1.3;
+    max-width: 450px;
+}
